@@ -1,7 +1,6 @@
 # Kwandengezi Medical Centre
 
 Website and patient form builder for Dr Rakesh Panday's family practice in Kwandengezi, Durban.
-[drpanday.co.za](https://www.drpanday.co.za)
 
 ![screenshot](docs/screenshot.jpg)
 
